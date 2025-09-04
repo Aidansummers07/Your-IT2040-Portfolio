@@ -9,20 +9,11 @@
 <body>
   <nav>
     <ul>
-      <li><a href="index.html">Home: 17 Holly Ln</a></li>
       <li><a href="projects.html">Projects</a></li>
       <li><a href="about.html">About</a></li>
       <li><a href="contact.html">Contact</a></li>
     </ul>
   </nav>
-
-  <main>
-    <h1>Welcome to My IT2040 Portfolio</h1>
-    <p>
-      Hi! I'm Aidan Summers, and this is my portfolio for the IT2040 class at the University of Cincinnati.  
-      Explore my projects, learn about me, or get in touch below!
-    </p>
-  </main>
 </body>
 <main>
   <h1>Welcome to My IT2040 Portfolio</h1>

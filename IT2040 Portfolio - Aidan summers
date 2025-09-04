@@ -24,4 +24,12 @@
     </p>
   </main>
 </body>
+<main>
+  <h1>Welcome to My IT2040 Portfolio</h1>
+  <img src="profile.jpg" alt="Photo of Aidan Summers" width="200">
+  <p>
+    Hi! I'm Aidan Summers, and this is my portfolio for the IT2040 class at the University of Cincinnati.  
+    Explore my projects, learn about me, or get in touch below!
+  </p>
+</main>
 </html>
